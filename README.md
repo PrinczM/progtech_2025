@@ -1,2 +1,6 @@
-# progtech_2025
+# alma
+
+# progtech\_2025
+
 Órai munkák
+
